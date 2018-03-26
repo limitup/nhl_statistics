@@ -1,0 +1,8 @@
+lVenv
+__pycache__
+.ipynb_checkpoints
+.env
+.venv
+venv*
+Venv*
+
